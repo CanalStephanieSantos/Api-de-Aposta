@@ -16,7 +16,7 @@
 - Ao baixar o projeto executar o comando mvn clean install
 - Executar a aplicação
 - E testar a collection
-- 
+
 ####Framework e bibliotecas usadas
 - Springboot -> Usei springboot para gerar as configurações iniciais proporcionando agilidade e organização
 - Spring -> Utilizei alguns recursos, como anotações de api rest para os verbos, componente, código de retorno entre outros, também utilizei jpa para realizar as requisições no banco de dados. Eu usei as validações de mola não nulas e assim por diante.
