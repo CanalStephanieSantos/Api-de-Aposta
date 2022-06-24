@@ -15,7 +15,6 @@
 - Ter os pré requisitos
 - Ao baixar o projeto executar o comando mvn clean install
 - Executar a aplicação
-- E testar a collection
 
 ####Framework e bibliotecas usadas
 - Springboot -> Usei springboot para gerar as configurações iniciais proporcionando agilidade e organização
