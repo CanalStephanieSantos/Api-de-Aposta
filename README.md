@@ -1,5 +1,5 @@
 # Api de Aposta
-“Esta api tem o intuito de fazer gerenciamneto de apostas, sendo possivel fazer apostas e pesquisar apostas de um apostador específico.”
+“Esta api tem o intuito de fazer gerenciamento de apostas, sendo possivel fazer apostas e pesquisar apostas de um apostador específico.”
 
 ####Pré requisitos
 - Java 11
@@ -9,12 +9,13 @@
 
 ####Code Coverage
 - JUnit
-- 0%
+- 82%
 
 ####Como executar a aplicação
 - Ter os pré requisitos
 - Ao baixar o projeto executar o comando mvn clean install
 - Executar a aplicação
+- Importar a collection Api-de-apostas.json no Postman ou Insomnia e testar a aplicação
 
 ####Framework e bibliotecas usadas
 - Springboot -> Usei springboot para gerar as configurações iniciais proporcionando agilidade e organização
